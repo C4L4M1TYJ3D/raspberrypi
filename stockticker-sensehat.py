@@ -29,7 +29,7 @@ sense.set_rotation(90)
 debug = 0
 
 # Stock quote configuration:
-tickerSymbol = 'AAPL'
+tickerSymbol = 'GME'
 
 
 # Functions
